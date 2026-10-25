@@ -5,104 +5,105 @@
   <br /><br />
 
   <h1>🎧 Sounify Music</h1>
-  <p><strong>El cliente de escritorio moderno y ultra rápido para Navidrome y Subsonic.</strong></p>
+  <p><strong>A modern, ultra-fast desktop & web streaming client for Navidrome and Subsonic servers.</strong></p>
 
   <p>
-    <a href="https://github.com"><img src="https://img.shields.io/badge/Versión-v1.3.0-1db954?style=for-the-badge&logo=windows&logoColor=white" alt="Versión 1.3.0" /></a>
-    <img src="https://img.shields.io/badge/Plataforma-Windows_x64-0078D6?style=for-the-badge&logo=windows" alt="Plataforma Windows" />
-    <img src="https://img.shields.io/badge/Licencia-Gratuita-blueviolet?style=for-the-badge" alt="Licencia Gratuita" />
-    <img src="https://img.shields.io/badge/Servidores-Navidrome_%7C_Subsonic-1db954?style=for-the-badge" alt="Servidores compatibles" />
+    <a href="https://github.com"><img src="https://img.shields.io/badge/Version-v1.3.0-1db954?style=for-the-badge&logo=windows&logoColor=white" alt="Version 1.3.0" /></a>
+    <img src="https://img.shields.io/badge/Platform-Windows_x64-0078D6?style=for-the-badge&logo=windows" alt="Windows Platform" />
+    <img src="https://img.shields.io/badge/License-Freeware-blueviolet?style=for-the-badge" alt="Freeware License" />
+    <img src="https://img.shields.io/badge/Servers-Navidrome_%7C_Subsonic-1db954?style=for-the-badge" alt="Compatible Servers" />
   </p>
 
   <br />
 
-  <!-- BOTONES DE DESCARGA PRINCIPALES -->
-  <h3>🚀 Descargas Oficiales para Windows (64-bit)</h3>
+  <!-- MAIN DOWNLOAD BUTTONS -->
+  <h3>🚀 Official Downloads for Windows (64-bit)</h3>
 
   <p>
     <a href="https://pub-40e34be76c134551b5f075cf573bdb8a.r2.dev/Sounify%20Music%20Setup%201.3.0.exe">
-      <img src="https://img.shields.io/badge/DESCARGAR_INSTALADOR_(.EXE)-1DB954?style=for-the-badge&logo=windows&logoColor=white&labelColor=101010" height="42" alt="Descargar Instalador .exe" />
+      <img src="https://img.shields.io/badge/DOWNLOAD_INSTALLER_(.EXE)-1DB954?style=for-the-badge&logo=windows&logoColor=white&labelColor=101010" height="42" alt="Download Installer .exe" />
     </a>
     &nbsp;&nbsp;
     <a href="https://pub-40e34be76c134551b5f075cf573bdb8a.r2.dev/Sounify%20Music%201.3.0.315.zip">
-      <img src="https://img.shields.io/badge/DESCARGAR_PORTABLE_(.ZIP)-2563EB?style=for-the-badge&logo=files&logoColor=white&labelColor=101010" height="42" alt="Descargar Versión Portable .zip" />
+      <img src="https://img.shields.io/badge/DOWNLOAD_PORTABLE_(.ZIP)-2563EB?style=for-the-badge&logo=files&logoColor=white&labelColor=101010" height="42" alt="Download Portable Version .zip" />
     </a>
   </p>
 
   <p>
-    🌐 <strong>¿Prefieres usarlo en el navegador?</strong><br />
-    <a href="https://TU_APP_EN_VERCEL.vercel.app">👉 Abrir Sounify Web Player</a> &nbsp;|&nbsp; 
-    <a href="https://TU_LANDING_EN_VERCEL.vercel.app">🌍 Visitar Sitio Web Oficial</a>
+    🌐 <strong>Prefer using it in your browser?</strong><br />
+    <a href="https://sounify.vercel.app">👉 Launch Sounify Web Player</a> &nbsp;|&nbsp; 
+    <a href="https://sounifymusic.vercel.app">🌍 Visit Official Landing Page</a>
   </p>
 
 </div>
 
 ---
 
-## 🌟 ¿Qué es Sounify Music?
+## 🌟 What is Sounify Music?
 
-**Sounify Music** es un reproductor de música diseñado para ofrecer una experiencia estética de nivel Spotify para tu servidor personal de **Navidrome** o compatible con la API de **Subsonic**. 
+**Sounify Music** is a desktop audio streaming client crafted to deliver a Spotify-grade listening experience for your self-hosted **Navidrome** or **Subsonic API** compatible server.
 
-Disfruta de tu biblioteca musical autoalojada con la máxima calidad de audio, una interfaz oscura pulida, integración nativa con Windows y soporte bilingüe completo (Español / Inglés).
-
----
-
-## ✨ Características Destacadas
-
-- 🎨 **Interfaz Inspirada en Spotify**: Diseño oscuro moderno, transiciones fluidas, gradientes dinámicos adaptados a la carátula y vistas cuidadas al milímetro.
-- ⚡ **Audio en Alta Fidelidad**: Soporte para streaming Lossless/Flac, 320 kbps y 192 kbps configurable desde los ajustes.
-- 🎹 **Integración Nativa con Windows**:
-  - Control por teclado multimedia (Play, Pausa, Siguiente, Anterior).
-  - Overlay flotante de reproducción en Windows (SMTC).
-  - Minimizador al área de notificación (System Tray).
-- 📑 **Cola de Reproducción Interactiva**: Panel lateral dinámico con ecualizador animado, salto directo de pistas e historial de reproducción.
-- 🔍 **Exploración Total**:
-  - Carrusel aleatorio en portada.
-  - Secciones de "Escuchado Recientemente", "Más Escuchados" y "Novedades".
-  - Búsqueda instantánea de artistas, álbumes, géneros y pistas.
-- 🤍 **Sincronización Bidireccional**: Tus canciones favoritas (*Liked Songs*) y listas de reproducción se sincronizan directamente con tu servidor en tiempo real.
-- 🎨 **Multi-Temas**: Alterna entre *Sounify Dark*, *Charcoal Slate* y *Pure Black OLED*.
-- 🌐 **Totalmente Bilingüe**: Cambio instantáneo entre **Español** e **Inglés**.
+Enjoy your private music collection in high fidelity, surrounded by a polished dark UI, native Windows integration, and comprehensive bilingual support (English / Spanish).
 
 ---
 
-## 📥 ¿Cuál versión debo descargar?
+## ✨ Key Features
 
-| Versión | Archivo | ¿Para quién es? |
+- 🎨 **Spotify-Inspired Aesthetics**: Sleek dark layout, fluid micro-interactions, dynamic ambient background gradients extracted from album artwork, and pixel-perfect views.
+- ⚡ **High-Fidelity Audio Engine**: Flexible streaming quality support (Lossless/FLAC, 320 kbps, and 192 kbps) configurable on the fly.
+- 🎹 **Native Windows Integration**:
+  - Full hardware multimedia keyboard controls (Play, Pause, Next, Previous).
+  - Native Windows OS playback overlay (System Media Transport Controls / SMTC).
+  - Background minimize-to-tray support.
+- 📑 **Interactive Play Queue**: Slide-in drawer with real-time audio visualizer equalizer, direct song jump, and playback history.
+- 🔍 **Discovery & Library Exploration**:
+  - Randomized hero slideshow on home dashboard.
+  - Dedicated "Recently Played", "Most Played", and "Recently Added" carousels.
+  - Instant library search across tracks, albums, artists, and genres.
+- 🤍 **Bi-Directional Synchronization**: Favorited songs (*Liked Songs*) and custom playlists sync directly with your server in real time.
+- 🎨 **Multi-Theme Customization**: Switch effortlessly between *Sounify Dark*, *Charcoal Slate*, and *Pure Black OLED*.
+- 🌐 **Fully Bilingual**: Instant one-click toggle between **English** and **Spanish**.
+
+---
+
+## 📥 Which version should I download?
+
+| Version | File | Best For |
 | :--- | :--- | :--- |
-| **Instalador Oficial** | `Sounify Music Setup 1.3.0.exe` | **(Recomendado)** Instala la app en tu equipo, crea acceso directo en el menú inicio y escritorio, y permite asociar el programa al sistema. |
-| **Versión Portable** | `Sounify-Music-1.3.0-Portable.zip` | No requiere instalación. Solo descomprimes la carpeta y abres `Sounify Music.exe`. Ideal para memorias USB o si no tienes permisos de administrador. |
+| **Official Installer** | `Sounify Music Setup 1.3.0.exe` | **(Recommended)** Installs Sounify on your PC, adds Start Menu and Desktop shortcuts, and registers file associations. |
+| **Portable Version** | `Sounify-Music-1.3.0-Portable.zip` | No installation required. Simply extract the folder anywhere and launch `Sounify Music.exe`. Ideal for USB flash drives or systems without admin privileges. |
 
 ---
 
-## 🖥️ Requisitos del Sistema
+## 🖥️ System Requirements
 
-- **Sistema Operativo:** Windows 10 o Windows 11 (64-bit).
-- **Procesador:** Intel / AMD de 64 bits.
-- **Memoria RAM:** 2 GB mínimo (4 GB recomendado).
-- **Servidor Requerido:** Servidor activo de [Navidrome](https://www.navidrome.org/) o compatible con Subsonic API (Airsonic, Gonic, LMS, etc.).
-
----
-
-## ℹ️ Nota sobre Windows SmartScreen
-
-Al ser una aplicación independiente distribuida directamente, Windows Defender o SmartScreen podría mostrar la advertencia:  
-*"Windows protegió su PC (Editor desconocido)"*.
-
-Para abrirla:
-1. Haz clic en **"Más información"**.
-2. Presiona el botón **"Ejecutar de todas formas"**.
+- **Operating System:** Windows 10 or Windows 11 (64-bit).
+- **Processor:** 64-bit Intel or AMD CPU.
+- **Memory (RAM):** 2 GB minimum (4 GB recommended).
+- **Required Server:** An active [Navidrome](https://www.navidrome.org/) or Subsonic-compatible server (Airsonic, Gonic, LMS, etc.).
 
 ---
 
-## 🔒 Privacidad y Seguridad
+## ℹ️ Windows SmartScreen Notice
 
-- Tus contraseñas **nunca** se envían en texto plano; la autenticación se realiza mediante hash criptográfico MD5 con sal (*salt*) según las especificaciones de Subsonic.
-- Tus credenciales se almacenan localmente en tu equipo y solo se comunican de forma directa con tu propio servidor.
+Because Sounify Music is an independently distributed application, Windows SmartScreen may show an alert on first launch:  
+*"Windows protected your PC (Unknown publisher)"*.
+
+To run the application:
+1. Click **"More info"**.
+2. Click **"Run anyway"**.
+
+---
+
+## 🔒 Privacy & Security
+
+- Your passwords are **never** transmitted in plain text; authentication is performed via salted MD5 cryptographic tokens conforming to the Subsonic protocol standard.
+- Credentials and cache are strictly stored locally on your device and communicate directly with your personal server only.
 
 ---
 
 <div align="center">
-  <p>Desarrollado con ❤️ por <strong>Group Henriquez</strong></p>
-  <p><small>© 2026 Sounify Music. Todos los derechos reservados.</small></p>
+  <p>Built with ❤️ by <strong>Sixto M. Henriquez</strong></p>
+  <p><small>© 2026 Sounify Music. All rights reserved.</small></p>
 </div>
+
