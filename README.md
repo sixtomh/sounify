@@ -20,11 +20,11 @@
   <h3>🚀 Descargas Oficiales para Windows (64-bit)</h3>
 
   <p>
-    <a href="TU_ENLACE_R2_AQUI/Sounify%20Music%20Setup%201.3.0.exe">
+    <a href="https://pub-40e34be76c134551b5f075cf573bdb8a.r2.dev/Sounify%20Music%20Setup%201.3.0.exe">
       <img src="https://img.shields.io/badge/DESCARGAR_INSTALADOR_(.EXE)-1DB954?style=for-the-badge&logo=windows&logoColor=white&labelColor=101010" height="42" alt="Descargar Instalador .exe" />
     </a>
     &nbsp;&nbsp;
-    <a href="TU_ENLACE_R2_AQUI/Sounify-Music-1.3.0-Portable.zip">
+    <a href="https://pub-40e34be76c134551b5f075cf573bdb8a.r2.dev/Sounify%20Music%201.3.0.315.zip">
       <img src="https://img.shields.io/badge/DESCARGAR_PORTABLE_(.ZIP)-2563EB?style=for-the-badge&logo=files&logoColor=white&labelColor=101010" height="42" alt="Descargar Versión Portable .zip" />
     </a>
   </p>
